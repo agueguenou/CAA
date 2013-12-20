@@ -1,0 +1,15 @@
+Compiler notre projet
+--------------------------
+Dans le dossier projetCAA faire:
+./make
+
+Compiler les tests
+--------------------------
+Dans le dossier projetCAA/tests/ faire:
+./make
+
+
+Lancer projet ou tests 
+--------------------------
+Dans leur dossier respectif faire:
+./main
